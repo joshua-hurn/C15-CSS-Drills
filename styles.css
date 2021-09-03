@@ -1,0 +1,109 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: magenta;
+}
+
+a:hover {
+    color: maroon;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+span {
+    color: mediumblue;
+    font-weight: 800;
+}
+
+.boxes {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 30em;
+    position: relative;
+    /* display: block; */
+}
+
+#box1 {
+    background-color: mediumorchid;
+}
+
+#box2 {
+    background-color: blue;
+    /* position: absolute; */
+}
+
+#box3 {
+    background-color: powderblue;
+}
+
+#box4 {
+    background-color: rebeccapurple;
+}
+
+.img-div {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(89, 104, 23);
+}
+
+h1 {
+    color: seagreen;
+}
+
+.original {
+    color: sienna;
+}
+
+.additional {
+    color: skyblue;
+}
+
+#show1 {
+    color: aqua;   
+}
+
+#show2 {
+    color: aqua;   
+}
+
+#show3 {
+    color: aqua;   
+}
+
+#show4 {
+    color: aqua;   
+}
+
+#show5 {
+    color: aqua;   
+}
+
+ul {
+    color: darkblue;
+}
+
+.star {
+    color: darkgoldenrod;
+}
+
+#wars {
+    color: darkgreen;
+}
+
+.ul-container {
+    border: 2px solid black;
+}
